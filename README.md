@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TPhair-uOttawa, a graduate research student at the University of Ottawa. 
+- 👀 I’m interested in tailsitter drones, both in designing and in devloping flight controllers. 
+- 🌱 I’m currently learning about the design process for tailsitter aircraft, and how adaptive control techniques can be applied to these devices. 
+- 📫 I can be cantacted at tphai103@uottawa.ca. 
